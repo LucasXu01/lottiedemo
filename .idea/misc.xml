@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/layout/activity_launcher.xml" value="0.1140625" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main2.xml" value="0.1140625" />
+        <entry key="app/src/main/res/layout/activity_main3.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_main4.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_main5.xml" value="0.19610507246376813" />
+        <entry key="app/src/main/res/layout/activity_main6.xml" value="0.6267228413403519" />
+        <entry key="app/src/main/res/layout/bullseye_activity.xml" value="0.12916666666666668" />
+      </map>
+    </option>
+  </component>
+</project>

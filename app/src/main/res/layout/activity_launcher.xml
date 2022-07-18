@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    >
+
+   <Button
+       android:id="@+id/bt_0"
+       android:layout_width="200dp"
+       android:layout_height="60dp"
+       android:text="简单使用"
+       />
+
+   <Button
+       android:id="@+id/bt_1"
+       android:layout_width="200dp"
+       android:layout_height="60dp"
+       android:text="手势进度动画"
+       />
+
+   <Button
+       android:id="@+id/bt_2"
+       android:layout_width="200dp"
+       android:layout_height="60dp"
+       android:text="动画拖动"
+       />
+
+   <Button
+       android:id="@+id/bt_3"
+       android:layout_width="200dp"
+       android:layout_height="60dp"
+       android:text="高级属性"
+       />
+
+   <Button
+       android:id="@+id/bt_4"
+       android:layout_width="200dp"
+       android:layout_height="60dp"
+       android:text="手势1：手势绑定"
+       />
+
+   <Button
+       android:id="@+id/bt_5"
+       android:layout_width="200dp"
+       android:layout_height="60dp"
+       android:text="手势2：自定义修改动画"
+       />
+
+   <Button
+       android:id="@+id/bt_6"
+       android:layout_width="200dp"
+       android:layout_height="60dp"
+       android:text="替换图片"
+       />
+
+
+</LinearLayout>
